@@ -1,5 +1,5 @@
 {
-  "name": "nodework",
+  "name": "Node-Http",
   "version": "1.0.0",
   "description": "this is a test directory to learn git and node",
   "main": "index.html",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ahmedkr5/NodeWork.git"
+    "url": "git+https://github.com/Ahmedkr5/Node-Http.git"
   },
   "author": "Ahmed Kr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ahmedkr5/NodeWork/issues"
+    "url": "https://github.com/Ahmedkr5/Node-Http/issues"
   },
-  "homepage": "https://github.com/Ahmedkr5/NodeWork#readme",
+  "homepage": "https://github.com/Ahmedkr5/Node-Http#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
